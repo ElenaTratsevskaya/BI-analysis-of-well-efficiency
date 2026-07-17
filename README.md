@@ -75,11 +75,10 @@ A competitive project implemented in PIX BI
 Лист №2</br>
 <img width="1175" height="781" alt="61" src="https://github.com/user-attachments/assets/c1625cf9-0069-439e-93a5-e19a81d648ad" />
 
-Лист №3</br>
+Лист №2 Вариант с применённым фильтром</br>
 <img width="1173" height="778" alt="62a" src="https://github.com/user-attachments/assets/18a4c15f-5f20-43b3-8e2d-8ea07d3f78e0" />
 
-Вариант с применённым фильтром
-
+Лист №3</br>
 <img width="1176" height="782" alt="63" src="https://github.com/user-attachments/assets/cb05cf1b-8583-40e3-8f04-0196862e57e6" />
 
 Лист "Комментарии" </br>
