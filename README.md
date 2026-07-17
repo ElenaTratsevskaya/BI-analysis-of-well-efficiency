@@ -6,7 +6,7 @@ A competitive project implemented in PIX BI
 <img src="https://static.tildacdn.com/tild3234-6364-4662-a636-663662326236/pix-bi_blocks_h_purp.png" title="powerBI" width="334" height="80"/>&nbsp;
 </div></br>
 
-Конкурс проходил 230.06-24.07.2026</br>
+Конкурс проходил 23.06-24.07.2026</br>
 
 ### Задание конкурса<br>
 **1. Анализ фонда:**</br>
